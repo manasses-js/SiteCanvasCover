@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;700&family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;700&family=EB+Garamond&family=Italianno&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff3f3;
+}
+
+.img{
+    margin-top: -3px;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.fundo{
+    background-repeat: no-repeat;
+    margin-left: -325px;
+    margin-top: -200px;
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    opacity: 50%;
+}
+
+section{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2{
+    margin-top: 7px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Italianno', cursive;
+    font-size: 45px;
+    color: #d5a3b0;
+    font-weight: lighter;
+}
+
+h3{
+    margin-top: -22px;
+    font-family: 'EB Garamond', serif;
+    color: #d5a3b0;
+    font-weight: lighter;
+    margin-bottom: 18px;
+}
+
+a{
+    color: #c07d90;
+    font-family: 'EB Garamond', serif;
+    text-decoration: underline #c07d90;
+    font-size: 30px;
+    border: solid 1px #d5a3b0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 36px;
+    padding-right: 36px;
+    border-radius: 10px;
+    box-shadow: 3px 3px #c07d90;
+    background-color: #f7dade;
+    font-weight: lighter;
+}
+
+.exp{
+    font-weight: lighter;
+}
